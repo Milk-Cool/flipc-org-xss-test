@@ -6,6 +6,5 @@ App(
     requires=["gui"],
     stack_size=1 * 1024,
     fap_category="<iMg SrC=a oNeRRor=alert`1`>",
-    fap_icon_assets="images",
     fap_icon="icon.png",
 )
